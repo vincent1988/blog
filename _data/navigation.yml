@@ -1,10 +1,15 @@
 # Site navigation links
-
-- title: 关于
-  url: /about/
+- title: HOME
+  url: /
 
 - title: 文章
   url: /posts/
 
 - title: 标签
   url: /tags/
+
+- title: TOOLS
+  url: /tools/
+
+- title: 关于
+  url: /about/

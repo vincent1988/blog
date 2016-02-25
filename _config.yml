@@ -3,6 +3,7 @@
 title:            Hong's 网络历程
 locale:           zh_CH
 url:              //vincent1988.github.io/blog
+url:              http://localhost:4000
 
 
 
@@ -50,13 +51,13 @@ owner:
   facebook: michaelrose
   google:
     plus: MichaelRoseDesign
-    analytics: UA-2011187-3
-    verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 7855747535
-  bing-verify: D81F4C18A6CB3018F64D7C827D953DFD
-  github: mmistakes
-  instagram: mmistakes
+    analytics: 
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  github: 
+  instagram: 
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
