@@ -1,6 +1,6 @@
 # Site navigation links
-- title: HOME
-  url: /
+#- title: HOME
+#  url: /
 
 - title: 文章
   url: /posts/

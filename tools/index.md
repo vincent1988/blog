@@ -2,8 +2,7 @@
 layout: page
 title: "Tools"
 description: "我的小小工具箱"
-image:
-  feature:  "autumn.jpg"
+
 ---
 
 {% include _toc.html %}
